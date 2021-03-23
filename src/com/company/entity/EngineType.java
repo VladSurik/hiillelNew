@@ -1,2 +1,5 @@
-package com.company.entity;public class EngineType {
+package com.company.entity;
+
+public enum EngineType {
+    GAS, LPD, ELECTRIC, DIESEL
 }
